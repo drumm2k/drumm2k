@@ -12,4 +12,4 @@ My current stack is:
 If you want to hire me or discuss something, feel free to contact me.
 
 https://pokego.now.sh
-![](https://i.imgur.com/DAFHhm9.png)
+![](https://i.imgur.com/mTbGfIl.png)
