@@ -6,7 +6,7 @@ Core of my tech stack is:
 - TypeScript
 - LightningCSS / PostCSS / sass / styled-components / Linaria
 - Vite, Webpack, Rollup
-- Eslint, prettier
+- Eslint, prettier, stylelint
 - Storybook
 - Turborepo, nx
 - Node.js
