@@ -1,14 +1,16 @@
 Hello human.<br />
 
 Core of my tech stack is:
-- Next.js (React)
+- Next.js / Remix / Nuxt / Solid.js
+- Redux / MobX / Pinia
 - TypeScript
-- styled-components / sass / linaria
+- LightningCSS / PostCSS / sass / styled-components / Linaria
+- Vite, Webpack, Rollup
+- Eslint, prettier
 - Storybook
-- Webpack, Rollup
-- Eslint
-- Turborepo
+- Turborepo, nx
 - Node.js
 - Apollo Server / Client
-- MongoDB / PostgreSQL (via Prisma)
-- Docker
+- Tanstack Query / SWR
+- PostgreSQL / MongoDB
+- Docker Compose, nginx
